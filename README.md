@@ -23,7 +23,7 @@ PyMind is an AI-powered chat application built with Chainlit and Google's Gemini
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/PyMind.git
+git clone https://github.com/PyByAnshul/PyMind.git
 cd PyMind
 ```
 
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-Project Link: [https://github.com/yourusername/PyMind](https://github.com/yourusername/PyMind)
+Project Link: [https://github.com/PyByAnshul/PyMind](https://github.com/PyByAnshul/PyMind)
